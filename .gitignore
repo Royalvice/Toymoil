@@ -1,0 +1,19 @@
+# macOS and editors
+.DS_Store
+*.swp
+*.tmp
+
+# Local project state
+.agent-os/
+.local/
+
+# Godot generated state
+.godot/
+
+# Test and build outputs
+.pytest_cache/
+__pycache__/
+build/
+dist/
+exports/
+reports/
